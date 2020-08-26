@@ -1,2 +1,3 @@
 # trying-git-out
-trying to learn
+trying to learn git 
+properly
